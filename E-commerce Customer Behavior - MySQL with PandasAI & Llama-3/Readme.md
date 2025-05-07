@@ -1,5 +1,9 @@
-# E-commerce Customer Behavior
-# MySQL with PandasAI & Llama-3
-
+# E-commerce Customer Behavior - MySQL with PandasAI & Llama-3
 Dataset
+
 https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset/data
+
+![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg)
+![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg)
+![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg)
+
