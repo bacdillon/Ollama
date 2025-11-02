@@ -1,6 +1,4 @@
-# E-commerce Customer Behavior - MySQL with PandasAI & Llama-3
-E‑commerce Customer Behavior Analysis
-
+# E‑commerce Customer Behavior Analysis with PandasAI & Llama‑3
 This project analyzes e‑commerce customer behavior using MySQL for data storage, PandasAI powered by Llama‑3 for intelligent data exploration, and a Streamlit web app as the UI. The dataset is sourced from Kaggle: E‑commerce Customer Behavior Dataset
 .
 
