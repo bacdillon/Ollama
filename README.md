@@ -1,4 +1,5 @@
 # Ollama
- Get up and running with large language models. Ollama is a lightweight, open-source tool that lets you run AI language models locally on your own computer. Ollama originally emphasized local model usage, they have added an optional cloud-hosted service (“Cloud Preview”) that lets you run models on datacenter hardware.
-
+ Get up and running with large language models. <br>
+ Ollama is a platform that enables organizations and developers to deploy and run AI language models locally or via the cloud, providing secure, flexible, and efficient access to advanced natural language   processing  
+ capabilities.
 
